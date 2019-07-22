@@ -9,3 +9,5 @@ def ddd():
 ddd()
 
 print('eeee')
+
+print('dddd')
