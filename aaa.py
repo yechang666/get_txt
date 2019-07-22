@@ -7,3 +7,5 @@ def ddd():
     print('wwww')
 
 ddd()
+
+print('eeee')
